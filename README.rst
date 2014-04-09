@@ -13,7 +13,7 @@ with Sphinx's `intersphinx extension`_.
 Requirements
 ------------
 
-* CPython 2.6/2.7/3.3 or PyPy
+* CPython 2.6/2.7/3.3/3.4 or PyPy
 
 Installation
 ------------
