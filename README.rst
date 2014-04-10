@@ -2,6 +2,9 @@
 Sphinx Inventory Writer
 =======================
 
+.. image:: https://travis-ci.org/malept/sphinx-inventory.svg?branch=master
+   :target: https://travis-ci.org/malept/sphinx-inventory
+
 A standalone library to write Sphinx_ inventory files (format version 2),
 outside of Sphinx. These files can be used for cross-referencing identifiers
 when writing documentation. An example of how these files are used can be found
